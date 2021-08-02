@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: ab0cf00f834f31742969c1e32afd6430
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger11
+    100016: Bip001 L Finger2
+    100018: Bip001 L Finger21
+    100020: Bip001 L Finger3
+    100022: Bip001 L Finger31
+    100024: Bip001 L Finger4
+    100026: Bip001 L Finger41
+    100028: Bip001 L Foot
+    100030: Bip001 L Forearm
+    100032: Bip001 L Hand
+    100034: Bip001 L Thigh
+    100036: Bip001 L Toe0
+    100038: Bip001 L UpperArm
+    100040: Bip001 Neck
+    100042: Bip001 Pelvis
+    100044: Bip001 R Calf
+    100046: Bip001 R Clavicle
+    100048: Bip001 R Finger0
+    100050: Bip001 R Finger01
+    100052: Bip001 R Finger1
+    100054: Bip001 R Finger11
+    100056: Bip001 R Finger2
+    100058: Bip001 R Finger21
+    100060: Bip001 R Finger3
+    100062: Bip001 R Finger31
+    100064: Bip001 R Finger4
+    100066: Bip001 R Finger41
+    100068: Bip001 R Foot
+    100070: Bip001 R Forearm
+    100072: Bip001 R Hand
+    100074: Bip001 R Thigh
+    100076: Bip001 R Toe0
+    100078: Bip001 R UpperArm
+    100080: Bip001 Spine
+    100082: Bip001 Spine1
+    100084: Bip001 Spine2
+    100086: Bip001 Spine3
+    100088: Shape001_Elements1
+    100090: Shape001_Elements10
+    100092: Shape001_Elements11
+    100094: Shape001_Elements12
+    100096: Shape001_Elements13
+    100098: Shape001_Elements14
+    100100: Shape001_Elements15
+    100102: Shape001_Elements16
+    100104: Shape001_Elements17
+    100106: Shape001_Elements18
+    100108: Shape001_Elements19
+    100110: Shape001_Elements2
+    100112: Shape001_Elements20
+    100114: Shape001_Elements21
+    100116: Shape001_Elements22
+    100118: Shape001_Elements23
+    100120: Shape001_Elements24
+    100122: Shape001_Elements25
+    100124: Shape001_Elements26
+    100126: Shape001_Elements27
+    100128: Shape001_Elements28
+    100130: Shape001_Elements29
+    100132: Shape001_Elements3
+    100134: Shape001_Elements30
+    100136: Shape001_Elements31
+    100138: Shape001_Elements32
+    100140: Shape001_Elements33
+    100142: Shape001_Elements35
+    100144: Shape001_Elements36
+    100146: Shape001_Elements37
+    100148: Shape001_Elements38
+    100150: Shape001_Elements39
+    100152: Shape001_Elements4
+    100154: Shape001_Elements40
+    100156: Shape001_Elements41
+    100158: Shape001_Elements42
+    100160: Shape001_Elements43
+    100162: Shape001_Elements44
+    100164: Shape001_Elements45
+    100166: Shape001_Elements46
+    100168: Shape001_Elements47
+    100170: Shape001_Elements48
+    100172: Shape001_Elements49
+    100174: Shape001_Elements5
+    100176: Shape001_Elements50
+    100178: Shape001_Elements51
+    100180: Shape001_Elements6
+    100182: Shape001_Elements7
+    100184: Shape001_Elements8
+    100186: Shape001_Elements9
+    100188: //RootNode
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger11
+    400016: Bip001 L Finger2
+    400018: Bip001 L Finger21
+    400020: Bip001 L Finger3
+    400022: Bip001 L Finger31
+    400024: Bip001 L Finger4
+    400026: Bip001 L Finger41
+    400028: Bip001 L Foot
+    400030: Bip001 L Forearm
+    400032: Bip001 L Hand
+    400034: Bip001 L Thigh
+    400036: Bip001 L Toe0
+    400038: Bip001 L UpperArm
+    400040: Bip001 Neck
+    400042: Bip001 Pelvis
+    400044: Bip001 R Calf
+    400046: Bip001 R Clavicle
+    400048: Bip001 R Finger0
+    400050: Bip001 R Finger01
+    400052: Bip001 R Finger1
+    400054: Bip001 R Finger11
+    400056: Bip001 R Finger2
+    400058: Bip001 R Finger21
+    400060: Bip001 R Finger3
+    400062: Bip001 R Finger31
+    400064: Bip001 R Finger4
+    400066: Bip001 R Finger41
+    400068: Bip001 R Foot
+    400070: Bip001 R Forearm
+    400072: Bip001 R Hand
+    400074: Bip001 R Thigh
+    400076: Bip001 R Toe0
+    400078: Bip001 R UpperArm
+    400080: Bip001 Spine
+    400082: Bip001 Spine1
+    400084: Bip001 Spine2
+    400086: Bip001 Spine3
+    400088: Shape001_Elements1
+    400090: Shape001_Elements10
+    400092: Shape001_Elements11
+    400094: Shape001_Elements12
+    400096: Shape001_Elements13
+    400098: Shape001_Elements14
+    400100: Shape001_Elements15
+    400102: Shape001_Elements16
+    400104: Shape001_Elements17
+    400106: Shape001_Elements18
+    400108: Shape001_Elements19
+    400110: Shape001_Elements2
+    400112: Shape001_Elements20
+    400114: Shape001_Elements21
+    400116: Shape001_Elements22
+    400118: Shape001_Elements23
+    400120: Shape001_Elements24
+    400122: Shape001_Elements25
+    400124: Shape001_Elements26
+    400126: Shape001_Elements27
+    400128: Shape001_Elements28
+    400130: Shape001_Elements29
+    400132: Shape001_Elements3
+    400134: Shape001_Elements30
+    400136: Shape001_Elements31
+    400138: Shape001_Elements32
+    400140: Shape001_Elements33
+    400142: Shape001_Elements35
+    400144: Shape001_Elements36
+    400146: Shape001_Elements37
+    400148: Shape001_Elements38
+    400150: Shape001_Elements39
+    400152: Shape001_Elements4
+    400154: Shape001_Elements40
+    400156: Shape001_Elements41
+    400158: Shape001_Elements42
+    400160: Shape001_Elements43
+    400162: Shape001_Elements44
+    400164: Shape001_Elements45
+    400166: Shape001_Elements46
+    400168: Shape001_Elements47
+    400170: Shape001_Elements48
+    400172: Shape001_Elements49
+    400174: Shape001_Elements5
+    400176: Shape001_Elements50
+    400178: Shape001_Elements51
+    400180: Shape001_Elements6
+    400182: Shape001_Elements7
+    400184: Shape001_Elements8
+    400186: Shape001_Elements9
+    400188: //RootNode
+    2100000: 01 - Default
+    2300000: Shape001_Elements1
+    2300002: Shape001_Elements10
+    2300004: Shape001_Elements11
+    2300006: Shape001_Elements12
+    2300008: Shape001_Elements13
+    2300010: Shape001_Elements14
+    2300012: Shape001_Elements15
+    2300014: Shape001_Elements16
+    2300016: Shape001_Elements17
+    2300018: Shape001_Elements18
+    2300020: Shape001_Elements19
+    2300022: Shape001_Elements2
+    2300024: Shape001_Elements20
+    2300026: Shape001_Elements21
+    2300028: Shape001_Elements22
+    2300030: Shape001_Elements23
+    2300032: Shape001_Elements24
+    2300034: Shape001_Elements25
+    2300036: Shape001_Elements26
+    2300038: Shape001_Elements27
+    2300040: Shape001_Elements28
+    2300042: Shape001_Elements29
+    2300044: Shape001_Elements3
+    2300046: Shape001_Elements30
+    2300048: Shape001_Elements31
+    2300050: Shape001_Elements32
+    2300052: Shape001_Elements33
+    2300054: Shape001_Elements35
+    2300056: Shape001_Elements36
+    2300058: Shape001_Elements37
+    2300060: Shape001_Elements38
+    2300062: Shape001_Elements39
+    2300064: Shape001_Elements4
+    2300066: Shape001_Elements40
+    2300068: Shape001_Elements41
+    2300070: Shape001_Elements42
+    2300072: Shape001_Elements43
+    2300074: Shape001_Elements44
+    2300076: Shape001_Elements45
+    2300078: Shape001_Elements46
+    2300080: Shape001_Elements47
+    2300082: Shape001_Elements48
+    2300084: Shape001_Elements49
+    2300086: Shape001_Elements5
+    2300088: Shape001_Elements50
+    2300090: Shape001_Elements51
+    2300092: Shape001_Elements6
+    2300094: Shape001_Elements7
+    2300096: Shape001_Elements8
+    2300098: Shape001_Elements9
+    3300000: Shape001_Elements1
+    3300002: Shape001_Elements10
+    3300004: Shape001_Elements11
+    3300006: Shape001_Elements12
+    3300008: Shape001_Elements13
+    3300010: Shape001_Elements14
+    3300012: Shape001_Elements15
+    3300014: Shape001_Elements16
+    3300016: Shape001_Elements17
+    3300018: Shape001_Elements18
+    3300020: Shape001_Elements19
+    3300022: Shape001_Elements2
+    3300024: Shape001_Elements20
+    3300026: Shape001_Elements21
+    3300028: Shape001_Elements22
+    3300030: Shape001_Elements23
+    3300032: Shape001_Elements24
+    3300034: Shape001_Elements25
+    3300036: Shape001_Elements26
+    3300038: Shape001_Elements27
+    3300040: Shape001_Elements28
+    3300042: Shape001_Elements29
+    3300044: Shape001_Elements3
+    3300046: Shape001_Elements30
+    3300048: Shape001_Elements31
+    3300050: Shape001_Elements32
+    3300052: Shape001_Elements33
+    3300054: Shape001_Elements35
+    3300056: Shape001_Elements36
+    3300058: Shape001_Elements37
+    3300060: Shape001_Elements38
+    3300062: Shape001_Elements39
+    3300064: Shape001_Elements4
+    3300066: Shape001_Elements40
+    3300068: Shape001_Elements41
+    3300070: Shape001_Elements42
+    3300072: Shape001_Elements43
+    3300074: Shape001_Elements44
+    3300076: Shape001_Elements45
+    3300078: Shape001_Elements46
+    3300080: Shape001_Elements47
+    3300082: Shape001_Elements48
+    3300084: Shape001_Elements49
+    3300086: Shape001_Elements5
+    3300088: Shape001_Elements50
+    3300090: Shape001_Elements51
+    3300092: Shape001_Elements6
+    3300094: Shape001_Elements7
+    3300096: Shape001_Elements8
+    3300098: Shape001_Elements9
+    4300000: Shape001_Elements51
+    4300002: Shape001_Elements45
+    4300004: Shape001_Elements5
+    4300006: Shape001_Elements46
+    4300008: Shape001_Elements9
+    4300010: Shape001_Elements8
+    4300012: Shape001_Elements12
+    4300014: Shape001_Elements10
+    4300016: Shape001_Elements13
+    4300018: Shape001_Elements11
+    4300020: Shape001_Elements14
+    4300022: Shape001_Elements15
+    4300024: Shape001_Elements17
+    4300026: Shape001_Elements16
+    4300028: Shape001_Elements7
+    4300030: Shape001_Elements43
+    4300032: Shape001_Elements42
+    4300034: Shape001_Elements41
+    4300036: Shape001_Elements6
+    4300038: Shape001_Elements21
+    4300040: Shape001_Elements20
+    4300042: Shape001_Elements24
+    4300044: Shape001_Elements22
+    4300046: Shape001_Elements25
+    4300048: Shape001_Elements23
+    4300050: Shape001_Elements26
+    4300052: Shape001_Elements27
+    4300054: Shape001_Elements29
+    4300056: Shape001_Elements28
+    4300058: Shape001_Elements19
+    4300060: Shape001_Elements37
+    4300062: Shape001_Elements36
+    4300064: Shape001_Elements35
+    4300066: Shape001_Elements18
+    4300068: Shape001_Elements4
+    4300070: Shape001_Elements47
+    4300072: Shape001_Elements48
+    4300074: Shape001_Elements3
+    4300076: Shape001_Elements44
+    4300078: Shape001_Elements2
+    4300080: Shape001_Elements49
+    4300082: Shape001_Elements40
+    4300084: Shape001_Elements39
+    4300086: Shape001_Elements38
+    4300088: Shape001_Elements33
+    4300090: Shape001_Elements32
+    4300092: Shape001_Elements31
+    4300094: Shape001_Elements1
+    4300096: Shape001_Elements50
+    4300098: Shape001_Elements30
+    7400000: Skull_ANI01
+    7400002: Skull_ANI02
+    7400004: Skull_ANI03
+    7400006: Skull_ANI04
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Skull_ANI01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skull_ANI02
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 160
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skull_ANI03
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 220
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skull_ANI04
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 300
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
